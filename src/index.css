@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background:#fff;
+}
+
+
+input {
+  height: 40px;
+  border-radius: 6px;
+  border: 1px solid #e2e2e2;
+  padding: 8px;
+}
